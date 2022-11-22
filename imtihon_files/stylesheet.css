@@ -23,87 +23,23 @@ br
 	mso-protection:locked visible;
 	mso-style-name:Normal;
 	mso-style-id:0;}
+.font5
+	{color:black;
+	font-size:12.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:204;}
+.font6
+	{color:black;
+	font-size:12.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:204;}
 .font9
-	{color:black;
-	font-size:15.0pt;
-	font-weight:700;
-	font-style:normal;
-	text-decoration:none;
-	font-family:"Times New Roman", serif;
-	mso-font-charset:204;}
-.font10
-	{color:black;
-	font-size:15.0pt;
-	font-weight:700;
-	font-style:normal;
-	text-decoration:none;
-	font-family:"Times New Roman", serif;
-	mso-font-charset:204;}
-.font11
-	{color:black;
-	font-size:15.0pt;
-	font-weight:400;
-	font-style:normal;
-	text-decoration:none;
-	font-family:"Times New Roman", serif;
-	mso-font-charset:204;}
-.font12
-	{color:black;
-	font-size:15.0pt;
-	font-weight:400;
-	font-style:normal;
-	text-decoration:none;
-	font-family:"Times New Roman", serif;
-	mso-font-charset:204;}
-.font13
-	{color:black;
-	font-size:14.0pt;
-	font-weight:400;
-	font-style:normal;
-	text-decoration:none;
-	font-family:"Times New Roman", serif;
-	mso-font-charset:204;}
-.font14
-	{color:black;
-	font-size:14.0pt;
-	font-weight:700;
-	font-style:normal;
-	text-decoration:none;
-	font-family:"Times New Roman", serif;
-	mso-font-charset:204;}
-.font16
-	{color:black;
-	font-size:14.0pt;
-	font-weight:400;
-	font-style:normal;
-	text-decoration:none;
-	font-family:Calibri, sans-serif;
-	mso-font-charset:204;}
-.font17
-	{color:#202124;
-	font-size:14.0pt;
-	font-weight:400;
-	font-style:normal;
-	text-decoration:none;
-	font-family:"Times New Roman", serif;
-	mso-font-charset:204;}
-.font18
-	{color:black;
-	font-size:12.0pt;
-	font-weight:700;
-	font-style:normal;
-	text-decoration:none;
-	font-family:"Times New Roman", serif;
-	mso-font-charset:204;}
-.font19
-	{color:black;
-	font-size:12.0pt;
-	font-weight:700;
-	font-style:normal;
-	text-decoration:none;
-	font-family:"Times New Roman", serif;
-	mso-font-charset:204;}
-.font22
 	{color:#333333;
 	font-size:12.0pt;
 	font-weight:700;
@@ -111,7 +47,7 @@ br
 	text-decoration:none;
 	font-family:"Times New Roman", serif;
 	mso-font-charset:204;}
-.font24
+.font11
 	{color:black;
 	font-size:12.0pt;
 	font-weight:700;
@@ -143,230 +79,63 @@ td
 	mso-rotate:0;}
 .xl65
 	{mso-style-parent:style0;
-	border:.5pt solid windowtext;}
-.xl66
-	{mso-style-parent:style0;
+	font-size:12.0pt;
 	font-weight:700;
 	font-family:"Times New Roman", serif;
 	mso-font-charset:204;
-	text-align:left;
+	text-align:center;
 	vertical-align:middle;
 	border:.5pt solid windowtext;
-	background:white;
-	mso-pattern:black none;
+	white-space:normal;}
+.xl66
+	{mso-style-parent:style0;
+	color:black;
+	font-size:12.0pt;
+	font-weight:700;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:204;
+	text-align:center;
+	vertical-align:middle;
+	border:.5pt solid windowtext;
 	white-space:normal;}
 .xl67
 	{mso-style-parent:style0;
-	color:black;
 	font-weight:700;
-	font-family:"Times New Roman", serif;
-	mso-font-charset:204;
-	text-align:left;
+	text-align:center;
 	vertical-align:middle;
 	border:.5pt solid windowtext;
-	background:white;
-	mso-pattern:black none;
 	white-space:normal;}
 .xl68
 	{mso-style-parent:style0;
+	font-weight:700;}
+.xl69
+	{mso-style-parent:style0;
 	color:black;
+	font-size:12.0pt;
 	font-weight:700;
-	font-family:Consolas, monospace;
-	mso-font-charset:204;
+	text-align:center;
+	vertical-align:middle;
+	border:.5pt solid windowtext;
+	white-space:normal;}
+.xl70
+	{mso-style-parent:style0;
+	font-weight:700;
 	text-align:left;
 	vertical-align:middle;
 	border:.5pt solid windowtext;
-	background:white;
-	mso-pattern:black none;
-	white-space:normal;}
-.xl69
-	{mso-style-parent:style0;
-	text-align:center;
-	border:.5pt solid windowtext;}
-.xl70
-	{mso-style-parent:style0;
-	text-align:center;
-	vertical-align:middle;
-	border:.5pt solid windowtext;
-	background:white;
-	mso-pattern:black none;
 	white-space:normal;}
 .xl71
 	{mso-style-parent:style0;
-	text-align:center;}
+	color:black;
+	font-size:12.0pt;
+	font-weight:700;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:204;
+	text-align:left;
+	vertical-align:middle;
+	border:.5pt solid windowtext;
+	white-space:normal;}
 .xl72
-	{mso-style-parent:style0;
-	font-size:15.0pt;
-	text-align:center;
-	vertical-align:middle;
-	border:.5pt solid windowtext;
-	white-space:normal;}
-.xl73
-	{mso-style-parent:style0;
-	font-size:15.0pt;
-	text-align:left;
-	vertical-align:middle;
-	border:.5pt solid windowtext;
-	white-space:normal;}
-.xl74
-	{mso-style-parent:style0;
-	font-size:15.0pt;
-	font-weight:700;
-	font-family:"Times New Roman", serif;
-	mso-font-charset:204;
-	text-align:center;
-	vertical-align:middle;
-	border:.5pt solid windowtext;
-	white-space:normal;}
-.xl75
-	{mso-style-parent:style0;
-	font-size:15.0pt;}
-.xl76
-	{mso-style-parent:style0;
-	color:black;
-	font-size:15.0pt;
-	font-weight:700;
-	font-family:"Times New Roman", serif;
-	mso-font-charset:204;
-	text-align:left;
-	vertical-align:middle;
-	border:.5pt solid windowtext;
-	white-space:normal;}
-.xl77
-	{mso-style-parent:style0;
-	font-size:15.0pt;
-	font-family:"Times New Roman", serif;
-	mso-font-charset:204;
-	text-align:center;
-	vertical-align:middle;
-	border:.5pt solid windowtext;
-	white-space:normal;}
-.xl78
-	{mso-style-parent:style0;
-	font-size:15.0pt;
-	font-weight:700;
-	font-family:"Times New Roman", serif;
-	mso-font-charset:204;
-	text-align:left;
-	vertical-align:middle;
-	border:.5pt solid windowtext;
-	white-space:normal;}
-.xl79
-	{mso-style-parent:style0;
-	color:black;
-	font-size:15.0pt;
-	font-family:"Times New Roman", serif;
-	mso-font-charset:204;
-	text-align:center;
-	vertical-align:middle;
-	border:.5pt solid windowtext;
-	white-space:normal;}
-.xl80
-	{mso-style-parent:style0;
-	font-size:15.0pt;
-	text-align:left;}
-.xl81
-	{mso-style-parent:style0;
-	font-size:14.0pt;
-	font-family:"Times New Roman", serif;
-	mso-font-charset:204;
-	text-align:center;
-	vertical-align:middle;
-	border:.5pt solid windowtext;
-	white-space:normal;}
-.xl82
-	{mso-style-parent:style0;
-	font-size:14.0pt;
-	font-family:"Times New Roman", serif;
-	mso-font-charset:204;
-	text-align:left;
-	vertical-align:middle;
-	border:.5pt solid windowtext;
-	white-space:normal;}
-.xl83
-	{mso-style-parent:style0;
-	font-size:14.0pt;
-	font-weight:700;
-	font-family:"Times New Roman", serif;
-	mso-font-charset:204;
-	text-align:left;
-	vertical-align:middle;
-	border:.5pt solid windowtext;
-	white-space:normal;}
-.xl84
-	{mso-style-parent:style0;
-	font-size:14.0pt;
-	text-align:center;
-	vertical-align:middle;
-	white-space:normal;}
-.xl85
-	{mso-style-parent:style0;
-	font-size:14.0pt;}
-.xl86
-	{mso-style-parent:style0;
-	font-size:14.0pt;
-	text-align:left;
-	vertical-align:middle;
-	white-space:normal;}
-.xl87
-	{mso-style-parent:style0;
-	font-size:12.0pt;
-	font-weight:700;
-	font-family:"Times New Roman", serif;
-	mso-font-charset:204;
-	text-align:center;
-	vertical-align:middle;
-	border:.5pt solid windowtext;
-	white-space:normal;}
-.xl88
-	{mso-style-parent:style0;
-	color:black;
-	font-size:12.0pt;
-	font-weight:700;
-	font-family:"Times New Roman", serif;
-	mso-font-charset:204;
-	text-align:center;
-	vertical-align:middle;
-	border:.5pt solid windowtext;
-	white-space:normal;}
-.xl89
-	{mso-style-parent:style0;
-	font-weight:700;
-	text-align:center;
-	vertical-align:middle;
-	border:.5pt solid windowtext;
-	white-space:normal;}
-.xl90
-	{mso-style-parent:style0;
-	font-weight:700;}
-.xl91
-	{mso-style-parent:style0;
-	color:black;
-	font-size:12.0pt;
-	font-weight:700;
-	text-align:center;
-	vertical-align:middle;
-	border:.5pt solid windowtext;
-	white-space:normal;}
-.xl92
-	{mso-style-parent:style0;
-	font-weight:700;
-	text-align:left;
-	vertical-align:middle;
-	border:.5pt solid windowtext;
-	white-space:normal;}
-.xl93
-	{mso-style-parent:style0;
-	color:black;
-	font-size:12.0pt;
-	font-weight:700;
-	font-family:"Times New Roman", serif;
-	mso-font-charset:204;
-	text-align:left;
-	vertical-align:middle;
-	border:.5pt solid windowtext;
-	white-space:normal;}
-.xl94
 	{mso-style-parent:style0;
 	color:#333333;
 	font-size:12.0pt;
@@ -375,7 +144,7 @@ td
 	vertical-align:middle;
 	border:.5pt solid windowtext;
 	white-space:normal;}
-.xl95
+.xl73
 	{mso-style-parent:style0;
 	font-size:12.0pt;
 	font-weight:700;
@@ -385,7 +154,7 @@ td
 	vertical-align:middle;
 	border:.5pt solid windowtext;
 	white-space:normal;}
-.xl96
+.xl74
 	{mso-style-parent:style0;
 	color:black;
 	font-size:12.0pt;
@@ -394,7 +163,7 @@ td
 	vertical-align:middle;
 	border:.5pt solid windowtext;
 	white-space:normal;}
-.xl97
+.xl75
 	{mso-style-parent:style0;
 	font-size:12.0pt;
 	font-weight:700;
@@ -402,14 +171,14 @@ td
 	vertical-align:middle;
 	border:.5pt solid windowtext;
 	white-space:normal;}
-.xl98
+.xl76
 	{mso-style-parent:style0;
 	color:black;
 	font-size:12.0pt;
 	font-weight:700;
 	text-align:left;
 	vertical-align:middle;}
-.xl99
+.xl77
 	{mso-style-parent:style0;
 	font-weight:700;
 	text-align:left;}
